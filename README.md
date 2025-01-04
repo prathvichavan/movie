@@ -20,11 +20,11 @@ Welcome to the *Movies Recommendation System! This project leverages a recommend
 ## Running the Project Locally
 
 * *Clone the repository:*
-    bash
+    '''bash
     git clone [https://github.com/prathvichavan/movie.git](https://github.com/prathvichavan/movie.git)
     
 * *Navigate to the project directory:*
-    bash
+    '''bash
     cd movies-recommendation-system
     
 * *Install dependencies:*
