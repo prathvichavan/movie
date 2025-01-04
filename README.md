@@ -20,19 +20,19 @@ Welcome to the *Movies Recommendation System! This project leverages a recommend
 ## Running the Project Locally
 
 * *Clone the repository:*
-    '''bash
+    bash
     git clone [https://github.com/prathvichavan/movie.git](https://github.com/prathvichavan/movie.git)
     
 * *Navigate to the project directory:*
-    '''bash
+    ```bash
     cd movies-recommendation-system
     
 * *Install dependencies:*
-    bash
+    ```bash
     pip install -r requirements.txt
     
 * *Run the Streamlit app:*
-    bash
+    ```bash
     streamlit run app.py
     
 
@@ -49,15 +49,15 @@ Welcome to the *Movies Recommendation System! This project leverages a recommend
 
 * *Fork the repository.*
 * *Create a feature branch:*
-    bash
+    ```bash
     git checkout -b feature-name
     
 * *Commit your changes:*
-    bash
+    ```bash
     git commit -m "Add your message here"
     
 * *Push to the branch:*
-    bash
+    ```bash
     git push origin feature-name
     
 * *Submit a pull request.*
