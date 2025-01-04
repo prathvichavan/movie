@@ -61,5 +61,6 @@ Welcome to the *Movies Recommendation System! This project leverages a recommend
     git push origin feature-name
 
     
-![movie](https://github.com/user-attachments/assets/0b61eee8-6d8f-49d1-a7d7-a13ac0d7ccf7)
+![i](https://github.com/user-attachments/assets/b019fe4b-21d0-4edf-b0ad-6c9f14a38096)
+
 
