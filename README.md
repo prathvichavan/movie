@@ -43,7 +43,7 @@ Welcome to the *Movies Recommendation System! This project leverages a recommend
 
 ## Live Demo
 
-* Check out the live demo of the project: [Movies Recommendation System]((https://prathvi-movies-recommendation-system.streamlit.app/))
+* Check out the live demo of the project: [Movies Recommendation System](https://prathvi-movies-recommendation-system.streamlit.app/)
 
 ## Contributing
 
