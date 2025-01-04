@@ -59,6 +59,7 @@ Welcome to the *Movies Recommendation System! This project leverages a recommend
 * *Push to the branch:*
     ```bash
     git push origin feature-name
+
     
-* *Submit a pull request.*
-*
+![movie](https://github.com/user-attachments/assets/0b61eee8-6d8f-49d1-a7d7-a13ac0d7ccf7)
+
